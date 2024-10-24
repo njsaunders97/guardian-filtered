@@ -1,8 +1,8 @@
 ---
-name: Issue
-about: Create a base issue.
+name: Task
+about: Create a task.
 title: ''
-labels: enhancement
+labels: task
 assignees: ''
 
 ---
@@ -21,8 +21,8 @@ assignees: ''
 
 ### Dependencies
 
+Parent of:
 -
 
-**Project Tags**
-
-#
+Child of:
+-
