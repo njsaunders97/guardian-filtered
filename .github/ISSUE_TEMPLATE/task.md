@@ -1,6 +1,6 @@
 ---
-name: Task
-about: Create a task within a project.
+name: Issue
+about: Create a base issue.
 title: ''
 labels: enhancement
 assignees: ''
