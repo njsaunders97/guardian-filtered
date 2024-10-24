@@ -21,8 +21,10 @@ assignees: ''
 
 ### Dependencies
 
-Parent of:
--
+_Parent_
 
-Child of:
+- 
+
+_Children_
+
 -

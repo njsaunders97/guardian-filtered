@@ -1,6 +1,6 @@
 ---
 name: Story
-about: Create a wider story which contains more digestible tasks.
+about: Create a wider story consisting of digestible tasks.
 title: ''
 labels: story
 assignees: ''
@@ -21,8 +21,6 @@ assignees: ''
 
 ### Dependencies
 
-Parent(s)
--
+_Children_
 
-Children
 -
